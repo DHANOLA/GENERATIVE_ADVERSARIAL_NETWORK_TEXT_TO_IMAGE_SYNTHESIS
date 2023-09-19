@@ -27,7 +27,7 @@
     <h4><strong>PUBLISHED ON <a href=https://www.kaggle.com/code/rahuldhanola/generative-text-to-image-synthesis-part-3>PART - 3</a> KAGGLE</strong></h4>
   </li>
   <li>
-    <h4><strong>PUBLISHED ON <a href=https://www.kaggle.com/code/rahuldhanola/generative-text-to-image-synthesis-part-4/settings?scriptVersionId=125058714>PART - 4</a> KAGGLE</strong></h4>
+    <h4><strong>PUBLISHED ON <a href=https://www.kaggle.com/code/rahuldhanola/generative-text-to-image-synthesis-part-4>PART - 4</a> KAGGLE</strong></h4>
   </li>
   
     
